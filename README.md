@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=egg&color=FFF981&height=150&section=header" />
+
 <h1 align="center">It's me, AYEONEE! 🐣</h1>
 <h6 align="center">Just want to be a developer...anywhere to want me!🐓</h6>
 
@@ -23,4 +25,19 @@
       <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"/>
       <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
 </div>
-    
+
+---
+<div align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFE201&title_bg=%23555555&icon=iconify.svg&icon_color=%23FFFFFF&title=Thx+for+coming&edge_flat=true"/></a>
+</div>
+
+  <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayeonee&show_icons=true&count_private=true&hide=issues&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)-->
+
+<img src="https://capsule-render.vercel.app/api?type=egg&reversal=true&color=FFF981&height=150&section=footer" />
+
+<div align="center">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayeonee&repo=meemo&show_owner=false&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayeonee&repo=algorithm_study&show_owner=false&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
