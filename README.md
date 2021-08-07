@@ -28,7 +28,7 @@
 
 ---
 <div align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFE201&title_bg=%23555555&icon=iconify.svg&icon_color=%23FFFFFF&title=Thx+for+coming&edge_flat=true"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fayeonee&count_bg=%23FFE201&title_bg=%23555555&icon=iconify.svg&icon_color=%23FFFFFF&title=Thx+for+visitng&edge_flat=true"/></a>
 </div>
 
   <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayeonee&show_icons=true&count_private=true&hide=issues&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)-->
@@ -37,7 +37,7 @@
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayeonee&repo=meemo&show_owner=false&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayeonee&repo=algorithm_study&show_owner=false&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayeonee&repo=meemo&show_owner=false&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayeonee&repo=algorithm_study&show_owner=false&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)-->
 
 </div>
