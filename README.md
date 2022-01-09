@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=egg&color=FFF981&height=150&section=header" />
 
-<h1 align="center">It's me, AYEONEE! 🐣</h1>
+<h1 align="center">Hello 🐣</h1>
 <h6 align="center">Just want to be a developer...anywhere to want me!🐓</h6>
 
 ---
