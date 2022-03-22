@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=egg&color=FFF981&height=150&section=header" />
-
 <h1 align="center">Hello 🐣</h1>
 <h6 align="center">Just want to be a developer...anywhere to want me!🐓</h6>
 
@@ -33,7 +31,6 @@
 
   <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayeonee&show_icons=true&count_private=true&hide=issues&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)-->
 
-<img src="https://capsule-render.vercel.app/api?type=egg&reversal=true&color=FFF981&height=150&section=footer" />
 
 <div align="center">
   
